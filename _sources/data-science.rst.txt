@@ -1,0 +1,26 @@
+.. name of course
+
+*************************************   
+Data Science
+*************************************
+
+This course will enable technical teams by providing a comprehensive training that produces an efficient junior data
+scientist. Employees will build from the programming and mathematical fundamentals into the state-of-the-art.  Students
+will journey through the landscape of machine learning spending time on supervised, unsupervised and deep-learning
+families of algorithms.  High-performance computing and model deployment using containerization help ensure that the
+model-building is rooted in practical application.
+
+
+.. admonition:: Pre-requisites
+
+    * math-stats-essentials
+    * data-analytics
+
+
+.. csv-table:: Data Science Immersive Training
+   :file: ./products/it2a.csv
+   :widths: 2, 30, 70
+   :header-rows: 1
+
+
+

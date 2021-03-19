@@ -1,0 +1,53 @@
+.. title of course
+
+#########################
+Product Catalog
+#########################
+
+Galvanize, Inc (Stride, Inc) specializes in talent transformation.  In the context of data science and data engineering
+(DSDE) this typically involves one or more of the following categories.
+
+.. figure:: ./images/galvanize-logo.png
+    :scale: 15%
+    :align: center
+    :alt: galvanize-logo
+    :figclass: align-center
+
+
+1. **Long-form training**: transformative re-tooling of employees to become a data analyst, data scientist, or data
+   engineer.
+2. **Short-form training**: targeted or *a la carte* style trainings that provide specific skills employees need to
+   contribute to the business.
+3. **Data culture training**: Executive, managerial and literacy workshops that provide basic data literacy and additional
+
+.. important:: At Galvanize we hold a core belief that anyone with enough dedicated time and motivation can become a
+               data professional. We use skills assessments and fundamentals courses to ensure career paths are open to
+               everyone.
+
+
+For all of our products that we offer through Galvanize Enterprise there are two important distinctions:
+**accountability** and **product alignment** through offering flexibility.  At the core of each of our products is a
+desire to deliver the best possible experience for students and importantly that experience is optimized for outcomes.
+Creating individual learning paths is also part of our product delivery strategy because a rigid *one-size fits all*
+approach to content delivery does not align well with the myriad of skills that are being used today by data
+professionals.
+
+Becoming a data professional is a long road and one that can be far less bumpy when instructors are actively guiding
+the student experience.  Whether an instructor is part of the journey full-time, part-time or only occasionally it is
+important that students are held accountable for the work they set out to do.
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Data Culture Training
+
+    leadership
+    data-literacy
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Technical training products
+
+    essentials
+    data-analytics
+    data-science
+    professional-training

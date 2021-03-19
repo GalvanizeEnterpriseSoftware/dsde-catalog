@@ -1,0 +1,44 @@
+.. name of course
+
+*************************************   
+Essentials
+*************************************
+
+The essentials courses provide the foundational skills needed for all data professionals. There are two components to
+this training: *Programming* and *Mathematics*. Python is the most commonly used tool for Data Science used in industry today.
+We will teach R/Python programming and the associated ecosystem of tools that are common to working with data---**that is the
+essentials for a programming language are taught through the lens of working with data**.
+
+With a solid footing in R/Python it is easier to teach the math and stats fundamentals, because the concepts come to
+life through code and examples.  The mathematics training could be considered a refresher-level training on
+undergraduate level concepts in linear algebra, probability, and statistics.
+
+We start students who are making a career pivot or who are otherwise new to the field with programming, because utilities
+that are available in the language itself open up a plethora of learning options.  It is important to keep in
+mind that with the essentials all of our content is vocational and every topic has been hand selected for a specific
+reason related to data analytics.
+
+.. important::
+
+    Linear algebra and statistics drive the modern landscape of machine learning and artificial intelligence.  A
+    fundamental understanding of the essentials is a requirement to effectively use sophisticated modeling techniques,
+    but it is also an important and often overlooked component of day-to-day work in data analytics.
+
+
+.. include:: products/es1a.rst
+
+
+Math and Stats Essentials (Python)
+====================================
+
+Refresher on undergraduate level concepts of linear algebra, and basic math that is relevant to data science.
+
+.. csv-table:: Math-Stats Essentials
+   :file: ./products/es2a.csv
+   :widths: 5, 30, 70
+   :header-rows: 1
+
+.. note::
+
+    Each Unit is 4 hours in duration
+

@@ -1,0 +1,32 @@
+.. name of course
+
+*************************************   
+Data Analytics
+*************************************
+
+:Authors: Galvanize
+:Copyright: Galvanize Inc.
+
+
+Building on foundational essential skills this course covers the main components of modern data analytics.
+Data visualization, database programming (SQL and noSQL), scientific investigation and technical communication are
+areas that are highlighted during this training.   Students will become proficient using A/B testing methodologies and
+linear models.  Building on a linear model foundation students will be introduced to commonly used predictive modeling
+and machine learning techniques.
+
+.. csv-table:: Data Analyst Training
+   :file: ./products/it1a-blocks.csv
+   :widths: 50, 30
+   :header-rows: 1
+
+.. csv-table:: Data Analyst Training
+   :file: ./products/it1a.csv
+   :widths: 2, 30, 70
+   :header-rows: 1
+
+.. note::
+
+    Each unit is 4 hours in duration
+
+
+

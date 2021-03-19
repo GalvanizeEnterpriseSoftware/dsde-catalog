@@ -1,0 +1,40 @@
+.. name of course
+
+*************************************   
+Professional Training
+*************************************
+
+These trainings require a fundamental knowledge of Python.  They trainings that are in relatively short form meant to
+address a specific business need.  Each training is 80 hours.
+
+.. important::
+
+    These are short-form trainings that are not meant to be comprehensive.  However, the most industry relevant topics
+    are included and the topic areas are covered in a way that allows students readily use the concepts and tools in
+    their workplace.
+
+.. note::
+
+    Each unit is 4 hours in duration
+
+.. csv-table:: Introduction to Data Analytics
+   :file: ./products/pt1a.csv
+   :widths: 2, 30, 70
+   :header-rows: 1
+
+.. csv-table:: Introduction to Machine Learning
+   :file: ./products/pt2a.csv
+   :widths: 2, 30, 70
+   :header-rows: 1
+
+.. csv-table:: Introduction to Data Engineering
+   :file: ./products/pt3a.csv
+   :widths: 2, 30, 70
+   :header-rows: 1
+
+.. csv-table:: Introduction to Big Data
+   :file: ./products/pt4a.csv
+   :widths: 2, 30, 70
+   :header-rows: 1
+
+

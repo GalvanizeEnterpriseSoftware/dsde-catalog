@@ -1,0 +1,49 @@
+.. name of course
+
+*************************************   
+Leadership
+*************************************
+
+Data-Driven Decisions for Managers
+===================================
+
+.. csv-table:: Data-Driven Decisions for Managers
+   :file: ./products/dc3a.csv
+   :widths: 2, 30, 70
+   :header-rows: 1
+
+.. note::
+
+    Each unit is 4 hours in duration
+
+Data Science for Executives
+================================
+
+Learning objectives:
+
+1. Explain the essential concepts and terminology from data science.
+2. Articulate data science projects from a variety of business scenarios.
+3. Prioritize data science projects using estimated business ROI.
+4. Explain how the success of a data science project is measured.
+5. Create a plan for your business to become more data and model driven.
+
++------+------------------------------+--------------------------------------------------------------------------+
+| 1    | Trends                       | Current and future trends of data science                                |
++------+------------------------------+--------------------------------------------------------------------------+
+| 2    | Demystifying data science    | Demystifying Machine Learning and artificial intelligence                |
++------+------------------------------+--------------------------------------------------------------------------+
+| 3    | Data-driven organizations    | Hallmarks of data and model driven organizations                         |
++------+------------------------------+--------------------------------------------------------------------------+
+| 4    | Data strategy                | Data strategy, data maturity, data governance                            |
++------+------------------------------+--------------------------------------------------------------------------+
+| 5    | Prioritizing projects        | Articulating and prioritizing data science projects                      |
++------+------------------------------+--------------------------------------------------------------------------+
+| 6    | CASE STUDY                   | Agile product roadmaps                                                   |
++------+------------------------------+--------------------------------------------------------------------------+
+
+.. note::
+
+    Each unit is 2 hours in duration
+
+
+

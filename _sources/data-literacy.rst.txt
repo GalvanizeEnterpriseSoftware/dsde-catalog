@@ -1,0 +1,48 @@
+.. name of course
+
+*************************************   
+Data Literacy
+*************************************
+
+Ensuring basic data literacy across a company is a critical step towards becoming a data-driven organization.  The data
+culture of a company is the degree to which the organization as a whole embraces data products and data-driven
+decision making.  In modern organizations data professionals, like data scientists and machine learning engineers, are
+tasked with crafting data products in the form of dashboards, reports, web-applications and more.  To ensure these
+products contribute to increased profitability they must inform decision making horizontally across business units and
+vertically within.  Becoming data-driven is an organization-wide effort and ensuring everyone can speak the language
+of data will result in better data products and increased adoption of those products.
+
+Programming is no longer reserved for computer scientists.  Modern programming languages, like Python, are easier to use
+than ever before and the ceiling on how useful they are is higher than ever before. Anyone with basics computer skills,
+in just a few weeks of effort can learn programming skills that would increase productivity in their day-to-day tasks.
+In the context of data literacy Python is a tool to augment and automate tasks.  It also decreases reliance on
+spreadsheet tools.  There are two data literacy tracks: one that exposes students to the elements of data literacy
+including databases and another that covers the same topics through the lens of simplified programming.
+
+Data Literacy: fundamentals track
+===================================
+
+.. csv-table:: Data Literacy
+   :file: ./products/dc4a.csv
+   :widths: 2, 30, 70
+   :header-rows: 1
+
+
+.. note::
+
+    Each unit is 3 hours in duration
+
+
+Data Literacy: continued learning
+============================================================
+
+There are two alternatives for this course.  Each course covers the same materials except the tools are used to bring
+the concepts to life are different between the courses.  For individuals looking to explore a career as a data
+professional we recommend the *Intro to programming track*.
+
+1. Data Literacy part 2 - Tableau track
+2. Data Literacy part 2 - Intro to programming track
+
+units: upcoming
+
+
